@@ -1,0 +1,9 @@
+{
+  "name": "Fullstack-Dev-Training",
+  "author": "arturomc<4rturo.m.c@gmail.com>",
+  "description": "A fullstack JS training presentation",
+  "dependencies": {
+    "materialize": "~0.97.0",
+    "jmpress": "~0.4.5"
+  }
+}
