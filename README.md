@@ -37,14 +37,14 @@ Prepared by Arturo Mosqueda
 	  5.5- Implementing and testing a RESTful API, tools and good practices
 	  5.6- The Hero(ku) of the day (or Deploying an API to the cloud on a rainy day )
 
-    6- Front end development, tools and good practices (we are not just painting flowers on a vase here...)
+    6- Front end development, tools and good practices (we are not just painting flowers on a vase here...) *2
 	  6.1- Bower revisited, how and why to use bower as a package manager?
 	  6.2- Emmet, saving years of development time (or, why everyone hates closing html tags?)
 	  6.3- Designing and implementing an engaging client for our app(s)
 	  6.4- Integration part I, how to deploy and pray at the same time
 	
 	7- Things done right, testing and delivering a quality product
-      7.X  To be defined
+      7.X  To be defined *3
 
 	8- 	  
 	  8.1- Standards over time and what do we have to deal with right now
@@ -62,4 +62,8 @@ Prepared by Arturo Mosqueda
 
 
 *1 Still defining if we are to build a single application, or make groups between the trainees to explore different appliation cases, like a social network, a simple todo app with additional features, a filesystem job dispatcher, etc...
+
+*2 I enlisted the help of a UI/UX asset and friend to be a consultant on the whole engaging UI UX part, but he is leaving the company soon, wo i guess i'll have to get someone else or do it myself, wanted to get different people from different areas to help with this for the reason i wrote below.
+
+*3 I've enlisted a QA asset, Hector Spencer<h4yla@gmail.com>, to help me with this part, since i want to involve more people to rally even more areas to effectively engage on Fullstack development, it's not just about us, devs :D
 
