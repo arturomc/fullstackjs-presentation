@@ -15,11 +15,11 @@ Prepared by Arturo Mosqueda
 	  1.5- Environments, tools and prereqs
 	
 	2- Hands on: A modern web developer's workflow
-	  2.3- What we will be building *1
-	  2.1- Setting up
-	  2.2- Using npm and bower as package managers
-	  2.3- Using gulp or grunt to automate stuff for us Part I (dance, monkey, dance)
-	  2.4- Building a makeshift website using our newly acquired knowledge (just for fun and giggles)
+	  2.1- What we will be building *1
+	  2.2- Setting up
+	  2.3- Using npm and bower as package managers
+	  2.4- Using gulp or grunt to automate stuff for us Part I (dance, monkey, dance)
+	  2.5- Building a makeshift website using our newly acquired knowledge (just for fun and giggles)
 	  
 	3- A bit more about node, express and the server side architectures
 	  3.1- Do you even server-side, bro? (or, how server architectures are abstracted into javascript-able paradigms)
