@@ -1,4 +1,4 @@
 $(function(){
-	$("#jmpress").jmpress("toggle", 27);
+	$("#jmpress").jmpress();
 })
 
