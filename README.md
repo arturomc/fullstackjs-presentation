@@ -18,15 +18,15 @@ Prepared by Arturo Mosqueda
 	  2.1- What we will be building *1
 	  2.2- Setting up
 	  2.3- Using npm and bower as package managers
-	  2.4- Using gulp or grunt to automate stuff for us Part I (dance, monkey, dance)
+	  2.4- Using gulp/grunt to automate stuff for us Part I (dance, monkey, dance)
 	  2.5- Building a makeshift website using our newly acquired knowledge (just for fun and giggles)
 	  
 	3- A bit more about node, express and the server side architectures
 	  3.1- Do you even server-side, bro? (or, how server architectures are abstracted into javascript-able paradigms)
-	  3.2- The magic of asynchronicity, understanding what node can and cannot do
+	  3.2- The magic of asynchronicity, understanding what node can and cannot do for us
 	  3.3- Common server-client architetures, models and paradigms
 	  3.4- A glimpse into Javascript design patterns (thank you, Addy Osmani)
-	  3.5- The blueprints of our application (designing an efficient RESTful API)
+	  3.5- The blueprints of our application: designing an efficient RESTful API
 
 	4- Hands on: Javascript on the Serverside, also, MongoDB
 	  4.1- Getting aquainted to Node.js
@@ -43,18 +43,22 @@ Prepared by Arturo Mosqueda
 	  5.4- Meet AngularJS, he is a nice guy
 	  5.5- A glimpse of the AngularJS API and architecture
 	  5.6- Designing a Model-View layer and look cool while you are at it (elegant AngularJS implementations and good practices)
-	  5.4- Integration part I, how to deploy our aplication
+	  5.7- Integration, how to connect the dots and wire up our client to the server API
+	  5.8- Integration, how to deploy our aplication and live to tell about it.
+	  5.9- Using gulp/grunt to automate stuff for us Part II, streamlining the deployment process 
+	  
 	
-	6- Things done right, testing and delivering a quality product
+	6- Things done right, testing and delivering a quality product (we should have started with this)
       6.X  To be defined *3
 
 	7- The long (but friendly... sort of) road ahead	  
 	  7.1- Standards over time and what do we have to deal with right now
-	  7.2- What the future holds (Part 1, ES6 and Angular2.0)
+	  7.2- What the future holds Part I, ES6 and Angular2.0
 	  7.3- Who are John Papa and Todd Motto and why should we care about them
 	  7.4- Yeoman, grunt-init and some other tools to make your life easier
 	  7.5- Lessons learned and what's next
-	  7.6- Thanks and stuff
+	  7.6- What the future holds Part II, Arduinos, wearable tech and autobots
+	  7.7- Thanks and stuff
 	  
   ## References
 
