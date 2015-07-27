@@ -46,7 +46,7 @@ Prepared by Arturo Mosqueda
 	7- Things done right, testing and delivering a quality product
       7.X  To be defined *3
 
-	8- 	  
+	8- The long (but friendly... sort of) road ahead	  
 	  8.1- Standards over time and what do we have to deal with right now
 	  8.2- What the future holds (Part 1, ES6 and Angular2.0)
 	  8.3- Who are John Papa and Todd Motto and why should we care about them
