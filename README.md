@@ -39,8 +39,11 @@ Prepared by Arturo Mosqueda
     5- Front end development, tools and good practices (we are not just painting flowers on a vase here...) *2
 	  5.1- Bower revisited, how and why to use bower as a package manager?
 	  5.2- Emmet, saving years of development time (or, why everyone hates closing html tags?)
-	  5.3- Designing and implementing an engaging client for our app(s)
-	  5.4- Integration part I, how to deploy and pray at the same time
+	  5.3- Designing an engaging client for our app(s)
+	  5.4- Meet AngularJS, he is a nice guy
+	  5.5- A glimpse of the AngularJS API and architecture
+	  5.6- Designing a Model-View layer and look cool while you are at it (elegant AngularJS implementations and good practices)
+	  5.4- Integration part I, how to deploy our aplication
 	
 	6- Things done right, testing and delivering a quality product
       6.X  To be defined *3
